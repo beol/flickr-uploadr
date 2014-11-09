@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    exifr (1.2.0)
     flickraw (0.9.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  exifr
   flickraw
